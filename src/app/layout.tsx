@@ -3,11 +3,11 @@ import "./globals.css";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Forum Cybersécurité 2025",
-  description: "Forum Cybersécurité 2025, un pour découvrir différentes techniques de hacking et de sécurité informatique.",
+  title: "Forum Cybersécurité 2026",
+  description: "Forum Cybersécurité 2026, un pour découvrir différentes techniques de hacking et de sécurité informatique.",
   openGraph: {
-    title: "Forum Cybersécurité 2025",
-    description: "Forum Cybersécurité 2025, un pour découvrir différentes techniques de hacking et de sécurité informatique.",
+    title: "Forum Cybersécurité 2026",
+    description: "Forum Cybersécurité 2026, un pour découvrir différentes techniques de hacking et de sécurité informatique.",
     url: "https://forum-cybersecurite.netlify.app/",
     images: [
       {
@@ -18,12 +18,12 @@ export const metadata: Metadata = {
       },
     ],
     type: "website",
-    siteName: "Forum Cybersécurité 2025",
+    siteName: "Forum Cybersécurité 2026",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Forum Cybersécurité 2025",
-    description: "Forum Cybersécurité 2025, un pour découvrir différentes techniques de hacking et de sécurité informatique.",
+    title: "Forum Cybersécurité 2026",
+    description: "Forum Cybersécurité 2026, un pour découvrir différentes techniques de hacking et de sécurité informatique.",
     images: ["https://i.imgur.com/uBQO7ZM.png"]
   },
   icons: {

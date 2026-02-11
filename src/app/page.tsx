@@ -147,7 +147,7 @@ export default function Home() {
             <h1
               className={`${gochihand.className} text-base whitespace-nowrap transform rotate-6 translate-x-[24em] translate-y-36 text-neutral-200`}
             >
-              Du 7 au 8 Avril !
+              Du 19 au 20 Mars !
             </h1>
           </div>
         </div>
