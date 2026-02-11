@@ -85,13 +85,13 @@ export default function Home() {
             <p
               className={`${gochihand.className} text-base whitespace-nowrap transform -translate-y-3 rotate-6 text-neutral-200`}
             >
-              Du 7 au 8 Avril !
+              Du 19 au 20 Mars !
             </p>
           </div>
           <h1
             className={`${latoThin.className} justify-center mx-auto md:mx-0 text-3xl md:text-6xl text-neutral-200`}
           >
-            Forum Cybersécurité 2025
+            Forum Cybersécurité 2026
           </h1>
           <p
             className={`${latoNormal.className} justify-center mx-auto md:mx-0 text-lg text-neutral-300 mt-4 w-96 md:w-full`}
@@ -175,7 +175,7 @@ export default function Home() {
           <div className="flex flex-1 flex-col items-center justify-center md:p-4 text-center">
             <Counter to={400} sign="+" />
             <span className="text-base text-gray-400">
-              Participants <br className="visible md:hidden" /> en 2024
+              Participants <br className="visible md:hidden" /> en 2025
             </span>
           </div>
           <Separator
